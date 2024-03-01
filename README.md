@@ -1,6 +1,6 @@
 # UltraSec-VMP CrackMe Challenge
 
-Welcome to the UltraSec-VMP CrackMe challenge! This version promises a significantly tougher challenge compared to the simple crackme. If you find it too challenging, you might want to check out the [simpler version]([link-to-simple-crackme](https://github.com/voksireimagined/UltraSec-Crackme/blob/main/README.md)) here.
+Welcome to the UltraSec-VMP CrackMe challenge! This version promises a significantly tougher challenge compared to the "easier" crackme. If you find it too challenging, you might want to check out the [simpler version]([link-to-simple-crackme](https://github.com/voksireimagined/UltraSec-Crackme/blob/main/README.md)) here.
 
 ## Challenge Overview
 
@@ -15,7 +15,7 @@ There Are NO RULES, meaning you can do whatever you want just crack it.
 
 ## Simpler Version
 
-If you find the ultrasec-VMP CrackMe too challenging, consider checking out the [simpler version](link-to-simple-crackme) for a gentler introduction to reverse engineering.
+If you find the ultrasec-VMP CrackMe too challenging, consider checking out the [simpler version](link-to-simple-crackme) for an easier version :) .
 
 ## How to Contribute
 
@@ -31,9 +31,3 @@ If you find the ultrasec-VMP CrackMe too challenging, consider checking out the 
 
 - Respect the challenge by refraining from sharing spoilers or solutions.
 - If you discover any bugs or issues, feel free to open an issue in the repository.
-
-Embark on this intricate journey and enjoy the thrill of breaking through the Virtual Machine Protect!
-
----
-
-**Note:** Do not modify the content of the `UltraSec.txt` file. It is an integral part of the challenge.
