@@ -1,4 +1,4 @@
-# UltraSec-VMP CrackMe Challenge
+# UltraSec-VMP  Challenge
 
 Welcome to the UltraSec-VMP CrackMe challenge! This version promises a significantly tougher challenge compared to the "easier" crackme.
 
@@ -10,12 +10,12 @@ There Are NO RULES, meaning you can do whatever you want just crack it.
 ## Instructions
 
 1. Download the `ultrasec.exe` file.
-2. Dive into the executable to unravel the concealed key within the VMP-protected environment.
+2. Dive into the executable to crack it within the VMP-protected environment.
 3. Document your process and share your insights.
 
 ## Simpler Version
 
-If you find the ultrasec-VMP CrackMe too challenging, consider checking out the [simpler version](link-to-simple-crackme) for an easier version :) .
+If you find the ultrasec-VMP CrackMe too challenging, consider checking out the [simpler version]([link-to-simple-crackme](https://github.com/voksireimagined/UltraSec-Crackme/tree/main)) for an easier version :) .
 
 ## How to Contribute
 
