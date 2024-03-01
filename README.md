@@ -1,6 +1,6 @@
 # UltraSec-VMP CrackMe Challenge
 
-Welcome to the UltraSec-VMP CrackMe challenge! This version promises a significantly tougher challenge compared to the "easier" crackme. If you find it too challenging, you might want to check out the [simpler version]([link-to-simple-crackme](https://github.com/voksireimagined/UltraSec-Crackme/blob/main/README.md)) here.
+Welcome to the UltraSec-VMP CrackMe challenge! This version promises a significantly tougher challenge compared to the "easier" crackme.
 
 ## Challenge Overview
 
