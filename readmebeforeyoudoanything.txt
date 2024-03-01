@@ -18,7 +18,7 @@ obfuscation used: VMP (virtualization and mutation at 100%)
 if you want an easier version goto:
 
 - www.crackmes.one
-- www.github
+- https://github.com/voksireimagined/UltraSec-Crackme/tree/main
 
 
 
