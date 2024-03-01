@@ -15,7 +15,7 @@ There Are NO RULES, meaning you can do whatever you want just crack it.
 
 ## Simpler Version
 
-If you find the ultrasec-VMP CrackMe too challenging, consider checking out the [simpler version]([link-to-simple-crackme](https://github.com/voksireimagined/UltraSec-Crackme/tree/main)) for an easier version :) .
+If you find the ultrasec-VMP CrackMe too challenging, consider checking out the [simpler version](https://github.com/voksireimagined/UltraSec-Crackme/tree/main)
 
 ## How to Contribute
 
