@@ -17,7 +17,7 @@ this is a pretty "HARD" crackme, there are no rules crack it anyway you want/can
 obfuscation used: VMP (virtualization and mutation at 100%)
 if you want an easier version goto:
 
-- www.crackmes.one
+- www.crackmes.one (coming soon)
 - https://github.com/voksireimagined/UltraSec-Crackme/tree/main
 
 
